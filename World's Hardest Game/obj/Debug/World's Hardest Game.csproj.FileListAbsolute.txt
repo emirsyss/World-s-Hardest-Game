@@ -1,0 +1,12 @@
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\bin\Debug\World's Hardest Game.exe.config
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\bin\Debug\World's Hardest Game.exe
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\bin\Debug\World's Hardest Game.pdb
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\bin\Debug\Guna.UI2.dll
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.AssemblyReference.cache
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World_s_Hardest_Game.Properties.Resources.resources
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.GenerateResource.cache
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.CoreCompileInputs.cache
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World's Hardest Game.csproj.CopyComplete
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World's Hardest Game.exe
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World's Hardest Game.pdb
+C:\Users\emiri\source\repos\World's Hardest Game\World's Hardest Game\obj\Debug\World_s_Hardest_Game.Main.resources
